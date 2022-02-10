@@ -37,7 +37,7 @@
     "imagemin-webpack-plugin": "^1.5.2",
     "modernizr": "^3.5.0",
     "modernizr-loader": "^1.0.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.0.6",
     "prettier": "^1.7.0",
     "redux-devtools-extension": "^2.13.2",
